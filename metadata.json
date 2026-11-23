@@ -1,0 +1,6 @@
+{
+  "name": "TermDeck",
+  "description": "Hybrid Android developer terminal and toggleable Linux desktop workspace prototype with architecture guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

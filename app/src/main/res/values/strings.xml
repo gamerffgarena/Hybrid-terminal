@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TermDeck</string>
+    <string name="mode_terminal">Terminal</string>
+    <string name="mode_desktop">Desktop</string>
+    <string name="cd_blueprint">Open Architecture and Scripts Guide</string>
+    <string name="cd_service_toggle">Toggle Foreground Session Service</string>
+    <string name="cd_close_guide">Close Architecture Guide</string>
+    <string name="cd_new_tab">New terminal session tab</string>
+    <string name="cd_run_command">Run terminal command</string>
+    <string name="cd_desktop_wallpaper">Linux desktop environment wallpaper</string>
+</resources>
